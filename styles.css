@@ -302,7 +302,7 @@ i {
 }
 
 
-#item #price, #description {
+#item #price, #description, #name {
 	font-size: 1.5em;
 	margin: .5em 0;
 }
@@ -568,7 +568,7 @@ select option{
 	}
 
 
-	#item #price, #description {
+	#item #price, #description,  #name {
 		font-size: 2em;
 		margin:1em 0;
 	}
